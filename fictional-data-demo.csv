@@ -1,0 +1,4 @@
+﻿Record ID,First Name,Last Name,County,Record Type,Date Received,Status,Source Reference,Notes
+DEMO-001,Alex,Example,Nairobi,Practice entry,2026-10-01,Approved,Synthetic record,Fictional training data only
+DEMO-002,Jamie,Sample,Mombasa,Practice entry,2026-10-02,Ready for QA,Synthetic record,Fictional training data only
+DEMO-003,Taylor,Demo,Kisumu,Practice entry,2026-10-03,Needs correction,Synthetic record,Fictional training data only
